@@ -20,3 +20,12 @@ You need to have Python installed on your machine. The code has been tested with
 
    ```bash
    git clone https://github.com/Zahid7669/panorama.git
+
+
+## Final Output
+
+Below is the final output produced by the panorama stitching algorithm:
+
+![Panorama Output](result/panorama_result.jpg)
+
+This image demonstrates the seamless stitching of multiple input images into a single panoramic photograph.
